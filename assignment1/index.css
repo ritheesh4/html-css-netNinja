@@ -1,0 +1,17 @@
+.headline{
+    color: red;
+    text-align: center;
+}
+.horizontal-list{
+    display: inline;
+}
+.block{
+    color:blue;
+    background-color: gray;
+    margin-left: 5px;
+
+}
+.form-portion{
+    display: inline;
+
+}
