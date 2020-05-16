@@ -86,22 +86,36 @@ padding-left: 30%;
     margin-left:15.5%;
 }
 .submit-button{ 
-    margin-left: 40%;
+    margin-left: 20%;
     background-color: #cccccc;
   border: 2px solid #727272;
   color: black;
-  padding: 16px 32px;
+  padding-left: 20px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   text-decoration: none;
   margin: 4px 2px;
   cursor: pointer;
     
 }
 .button-margin{
-    margin-left: 18%;
+    margin-left: 7%;
+    margin-top: 3%;
 
 }
 .k{ 
-    margin-left: 22%;
+    margin-left: 32%;
+    
+}
+.bottom-box{
+    background-color:#ffffff;
+    border: 2px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 70%;
+    padding-left: 20px;
+    margin-top: 50px;
     
 }
 
