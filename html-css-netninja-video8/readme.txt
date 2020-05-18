@@ -8,3 +8,7 @@ Position and Layout
 
 
 -Position sticky will make that particular field to stick with the position when it reaches at the top while scrolling.
+-White space no wrap helps to prevent warping. Sometimes the items go down from the line of this wrapping property.
+- z-index:The z-index property specifies the stack order of an element.
+  An element with greater stack order is always in front of an element with a lower stack order.
+- Sticky helps to keep the nav bar on the page while the page is scrolling
