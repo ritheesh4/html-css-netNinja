@@ -6,3 +6,5 @@ Position and Layout
 4. Adsolute - Absolutley positioned to its parent
 5. Sticky - A mixture of static and fixed.
 
+
+-Position sticky will make that particular field to stick with the position when it reaches at the top while scrolling.
